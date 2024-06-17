@@ -4,6 +4,8 @@ h1{
     color: black;
     font-style: italic;
     font-weight: bold;
+    text-decoration: line-through;
+    text-align: center;
 }
 
 p{
@@ -11,4 +13,14 @@ p{
     font-size: 23px;
     font-style: italic;
     font-weight: bold;
+    text-decoration: none;
+}
+
+.second{
+    text-decoration: underline wavy;
+    font-size: 23px;
+    font-weight: bold;
+    color:pink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
