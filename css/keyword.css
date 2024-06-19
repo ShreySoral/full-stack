@@ -1,1 +1,5 @@
 /* important keyword in css */
+/* !important keyword */
+body{
+    background-color:blue !important;
+}
