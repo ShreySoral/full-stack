@@ -82,3 +82,6 @@ a:hover{
 }
 
 /* cascade specificity and inheritance */
+.html{
+    background-color: white;
+}
