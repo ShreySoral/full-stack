@@ -1,3 +1,7 @@
+body{
+    background-color: cadetblue;
+}
+
 h1{
     font-family: 'Courier New', Courier, monospace;
     font-size: 32px;
@@ -32,4 +36,26 @@ p{
 /* selectors tutorial */
 .html{
     color:red;
+    text-decoration: none;
+}
+
+.css{
+    color:blue;
+    text-decoration: none;
+}
+
+.javascript{
+    color:yellow;
+}
+
+.react{
+    color:blue;
+}
+
+.tailwind{
+    color:skyblue;
+}
+
+#html,#css,#js,#react,#tailwind{
+    font-size: 32px;
 }
