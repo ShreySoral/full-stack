@@ -70,3 +70,8 @@ ul p{
     font-weight: bold;
     text-align: center;
 }
+
+h1:hover{
+    color:blue;
+    cursor: pointer;
+}
