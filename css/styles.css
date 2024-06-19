@@ -80,3 +80,5 @@ a:hover{
     color:orange;
     cursor:pointer;
 }
+
+/* cascade specificity and inheritance */
