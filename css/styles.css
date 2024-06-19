@@ -78,4 +78,5 @@ h1:hover{
 
 a:hover{
     color:orange;
+    cursor:pointer;
 }
