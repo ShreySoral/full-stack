@@ -3,3 +3,8 @@
 body{
     background-color:blue !important;
 }
+
+/* overriding keyword in css */
+body{
+    background-color: white !important;
+}
