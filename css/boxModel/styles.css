@@ -1,7 +1,7 @@
 .one{
     background-color: aquamarine;
     max-width:50%;
-    word-break: break-all;
+    /* word-break: break-all; */
     /* min-height: 100px; */
     /* overflow: hidden; */
 }
