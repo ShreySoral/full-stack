@@ -1,0 +1,11 @@
+.one{
+    background-color: aquamarine;
+    max-width:50%;
+    word-break: break-all;
+    /* min-height: 100px; */
+    /* overflow: hidden; */
+}
+
+.two{
+    background-color: aqua;
+}
