@@ -1,6 +1,7 @@
 *{
     margin:0;
     padding:0;
+    box-sizing: border-box;
 }
 
 .one{
@@ -8,6 +9,7 @@
     max-width:50%;
     padding:20px;
     border: 50px solid red;
+    border-radius: 20px;
     box-sizing: border-box;
     /* word-break: break-all; */
     /* min-height: 100px; */
