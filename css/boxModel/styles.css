@@ -2,6 +2,7 @@
     background-color: aquamarine;
     max-width:50%;
     padding:20px;
+    border: 10px solid red;
     /* word-break: break-all; */
     /* min-height: 100px; */
     /* overflow: hidden; */
