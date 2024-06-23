@@ -30,6 +30,7 @@
 /* % unit in css */
 section{
     width:50%;
+    height: 500px;
     background-color: blue;
 }
 
