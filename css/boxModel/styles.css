@@ -27,7 +27,14 @@
     margin:0;
 }
 
+/* % unit in css */
+section{
+    width:50%;
+    background-color: blue;
+}
+
 .box{
     background-color: chartreuse;
-    width:500px;
+    width:50%;
+    margin-top:20px;
 }
