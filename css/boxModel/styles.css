@@ -1,4 +1,4 @@
-*{
+/* *{
     margin:0;
     padding:0;
     box-sizing: border-box;
@@ -14,14 +14,14 @@
     /* word-break: break-all; */
     /* min-height: 100px; */
     /* overflow: hidden; */
-}
+/* } */
 
 .two{
     background-color: aqua;
     width: 50px;
     height: 50px;
     border-radius: 30%;
-}
+} */
 
 .body{
     margin:0;
@@ -29,12 +29,19 @@
     /* background-color: green; */
 }
 
+html{
+    width: 400px;
+}
+
 /* % unit in css */
 section{
     /* vw is browers width half */
-    width:50vw;
-    height: 500px;
+    /* vh is 50% of viewport height */
+    width:50vh;
+    /* height: 500px; */
     background-color: blue;
+    border: 1vw solid red;
+    font-size:10vw;
 }
 
 .box{
@@ -42,4 +49,5 @@ section{
     width:50%;
     margin-top:20px;
     padding:24px;
+    box-sizing: border-box;
 }
