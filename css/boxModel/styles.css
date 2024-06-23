@@ -22,3 +22,12 @@
     height: 50px;
     border-radius: 30%;
 }
+
+.body{
+    margin:0;
+}
+
+.box{
+    background-color: chartreuse;
+    width:500px;
+}
